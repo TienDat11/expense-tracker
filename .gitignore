@@ -1,0 +1,7 @@
+.env
+.env.*
+.omc/
+.dart_tool/
+build/
+*.iml
+nul
